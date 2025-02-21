@@ -13,6 +13,8 @@ This course material is licensed under a Creative Commons Attribution 4.0 Intern
 - [Data Science and Machine Learning: Making Data-Driven Decisions](https://idss.mit.edu/academics/idssx/data-science-machine-learning-making-data-driven-decisions/)
 - [MicroMasters Program in Statistics and Data Science (SDS)](https://idss.mit.edu/academics/micromasters-program-in-statistics-and-data-science-sds/)
 
+- Cormen, T, Leiserson C., Rivest, R. (2009). Introduction to Algorithms, 3rd ed. MIT Press. 
+Swinnen, G. (2005). Apprendre à programmer avec Python. O’Reilly.
 
   
 ## Additional resources
