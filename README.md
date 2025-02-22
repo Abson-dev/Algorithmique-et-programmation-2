@@ -16,6 +16,11 @@ This course material is licensed under a Creative Commons Attribution 4.0 Intern
 - Cormen, T, Leiserson C., Rivest, R. (2009). Introduction to Algorithms, 3rd ed. MIT Press. 
 Swinnen, G. (2005). Apprendre à programmer avec Python. O’Reilly.
 
+- [An interactive book that would teach you how to think like a computer scientist along with Python programming language. The most important skill for a computer scientist is problem-solving i.e. the ability to formulate problems, think creatively about solutions, and express a solution clearly and accurately](https://runestone.academy/ns/books/published/thinkcspy/index.html)
+  
+- [This is the Python documentation that is very detailed and full of examples. This can be used as a tutorial or a guide for beginners](https://docs.python.org/3/tutorial/)
+
+- [This book serves as a guide or tutorial to the Python programming language](https://python.swaroopch.com/)
   
 ## Additional resources
 
