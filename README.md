@@ -20,14 +20,14 @@ Swinnen, G. (2005). Apprendre à programmer avec Python. O’Reilly.
 ## Additional resources
 
 
-[1.A resource that mentions other resources](https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8)
+[1. A resource that mentions other resources](https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8)
 
-[2.A very good resource for beginners in python for data science](https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8)
+[2. A very good resource for beginners in python for data science](https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8)
 
-[3.A gentle introduction to python for those with programming background](https://www.programiz.com/python-programming)
+[3. A gentle introduction to python for those with programming background](https://www.programiz.com/python-programming)
 
-[4.If you don’t want to stop just at the beginner's stage](https://www.learnpython.org/)
+[4. If you don’t want to stop just at the beginner's stage](https://www.learnpython.org/)
 
 [5.This is for hardcore coders](https://origin.tutorialspoint.com/python/python_tutorial.pdf)
 
-[6.Another one with everything(almost)](https://www.tpointtech.com/python-tutorial)
+[6. Another one with everything(almost)](https://www.tpointtech.com/python-tutorial)
