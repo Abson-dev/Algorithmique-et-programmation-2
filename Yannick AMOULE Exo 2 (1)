@@ -1,0 +1,233 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "bbb9c865-3ee9-4912-b818-982a006bfa18",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "[23, 19, 18, 30, 21, 19, 21, 20, 10, 12]"
+      ]
+     },
+     "execution_count": 1,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "age=[23,19,18,30,21,19,21,20,10]\n",
+    "age.append(12)\n",
+    "age"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "f332d646-ff38-4391-8bf6-7f215f66e0c2",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "[12, 10, 20, 21, 19, 21, 30, 18, 19, 23]"
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "age.reverse()\n",
+    "age"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "6c6097ec-84e8-48dd-b6c4-a009283ff8fe",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "6"
+      ]
+     },
+     "execution_count": 3,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "age.index(30)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "465516ef-4a44-4e2f-994a-63594b75a2c0",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "[12, 10, 20, 21, 19, 21, 18, 19, 23]"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "age.remove(30)\n",
+    "age"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "348139e0-c28d-4b86-b8f5-4469b5071ac0",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[20, 21]\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(age[2:4])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "a4c496ce-a2ad-4fd3-8788-7577fc0c38a3",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[12, 10, 20]\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(age[0:3])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "da5cc464-2017-4f60-a55e-207f5d00b1f0",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[21, 19, 21, 18, 19, 23]\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(age[3:])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "999e53d1-5906-46b3-9b7e-913f4af4bf1e",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[12, 10, 20, 21, 19, 21, 18, 19, 23]\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(age[:])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "6b1cef75-d548-40d2-a2f3-6866c761b1f3",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "23\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(age[-1])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "52d70935-a6df-434e-98f6-8f922729546b",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "[10, 12, 18, 19, 19, 20, 21, 21, 23]"
+      ]
+     },
+     "execution_count": 13,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "age.sort()\n",
+    "age"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "94952bcd-fad9-4a18-a927-001a2a66a402",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "anaconda-ai-2024.04-py310",
+   "language": "python",
+   "name": "conda-env-anaconda-ai-2024.04-py310-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.13"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
